@@ -1,4 +1,4 @@
-import cyberpi,mbuild
+import cyberpi, mbuild
 
 cyberpi.display.show_label("LINE:\nBG:", 16, 0, 0, index = 0)
 
