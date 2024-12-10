@@ -1,4 +1,4 @@
-import cyberpi,mbuild
+import cyberpi, mbuild
 
 cyberpi.display.show_label("  L2 L1 R1 R2\nR:\nG:\nB:", 16, 0, 0, index = 0)
 
