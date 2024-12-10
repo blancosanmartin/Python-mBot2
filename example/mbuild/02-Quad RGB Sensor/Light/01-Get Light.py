@@ -1,4 +1,4 @@
-import cyberpi,mbuild
+import cyberpi, mbuild
 
 cyberpi.display.show_label("A:Light On\nB:Light Off\nL2:\nL1:\nR1:\nR2:", 16, 0, 0, index = 0)
 
